@@ -395,6 +395,9 @@ section .title::after{
 .teams .carousel .card a{
     color: white;
 }
+.teams .carousel .card{
+    color: white;
+}
 .teams .carousel .card:hover{
     background: crimson;
 }
