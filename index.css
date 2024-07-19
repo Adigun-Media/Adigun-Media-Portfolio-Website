@@ -391,6 +391,10 @@ section .title::after{
     transition: all 0.3s ease;
     cursor: pointer;
 }
+
+.teams .carousel .card a{
+    color: white;
+}
 .teams .carousel .card:hover{
     background: crimson;
 }
@@ -413,7 +417,7 @@ section .title::after{
     height: 150px;
     width: 150px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 25%;
     border: 5px solid crimson;
     transition: all 0.3s ease;
 }
